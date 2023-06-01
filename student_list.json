@@ -1,4 +1,4 @@
-[  
+{
    {  
       name:'arun',
       gender:'Male',
@@ -97,4 +97,4 @@
       maths:88,
       english:90
    }
-]
+}
